@@ -60,7 +60,7 @@ function Content() {
           />
           <ButtonIcon
           icon={instaIcon}
-          url="https://www.facebook.com/mercadinhovitoria.online/?ref=pl_edit_xav_ig_profile_page_web"
+          url="https://www.instagram.com/mercadovitoria.online"
           />
         </div>
       </div>
