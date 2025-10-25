@@ -11,7 +11,7 @@ import instaIcon from "../../assets/InstaLogo.png"
 
 function Content() {
   return (
-    <main className="bg-[linear-gradient(150deg,#ff6a12_20%,#e8292b_100%)] xl:h-screen 2xl:h-[100%] sm:h-auto sm:w-screen flex justify-center items-center">
+    <main className="bg-[linear-gradient(150deg,#ff6a12_20%,#e8292b_100%)] xl:h-screen 2xl:h-[100%] sm:h-auto lg:h-full sm:w-screen flex justify-center items-center">
       <div className="sm:w-full flex flex-col justify-center items-center gap-y-6">
         <motion.div className="sm:h-[40%] w-auto flex justify-center mt-6">
           <motion.img
@@ -53,7 +53,7 @@ function Content() {
             url="https://api.whatsapp.com/message/BGZGPS2VPMSQK1?autoload=1&app_absent=0"
           />
         </div>
-        <div className="flex justify-center items-center mb-17 md:mb-12 gap-x-5 2xl:h-screen">
+        <div className="flex justify-center items-center mb-17 md:mb-12 gap-x-5">
           <ButtonIcon
           icon={faceIcon}
           url="https://www.facebook.com/mercadinhovitoria.online/?ref=pl_edit_xav_ig_profile_page_web"
