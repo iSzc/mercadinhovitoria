@@ -19,12 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev)
 - [FramerMotion](https://framer.com/motion/)
 
-## 🚀 Como executar
-
-- Clone o repositório
-- Instale as dependências com `npm install`
-- Inicie a aplicação com `npm run dev`
-
-A aplicação pode ser acessada em [`localhost:5173`](https://localhost:5173).
-
 Desenvolvido por iSz.
