@@ -1,7 +1,7 @@
 <h1 align="center">Mercado Vitória</h1>
 
 <p align="center">
-    <img alt="Mercado Vitoria Site" src="./public/mercadovitoria.png">
+    <img alt="Mercado Vitoria Site" src="/public/mercadovitoria.png">
 </p>
 
 ## 💣 Projeto
@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev)
 - [FramerMotion](https://framer.com/motion/)
 
-Desenvolvido por iSz.
+Desenvolvido por iSz(Helio) Akorb(Sidney)
