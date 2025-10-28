@@ -1,7 +1,7 @@
 <h1 align="center">Mercado Vitória</h1>
 
 <p align="center">
-    <img alt="Mercado Vitoria Site" src="/public/mercadovitoria.png">
+    <img alt="Mercado Vitoria Site" src="public/mercadovitoria.png">
 </p>
 
 ## 💣 Projeto
